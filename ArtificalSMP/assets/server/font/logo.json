@@ -1,0 +1,13 @@
+{
+  "providers": [
+    {
+      "type": "bitmap",
+      "file": "server:logo.png",
+      "ascent": 23,
+      "height": 40,
+      "chars": [
+        "\uE000"
+      ]
+    }
+  ]
+}
